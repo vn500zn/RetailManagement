@@ -1,7 +1,7 @@
 package com.stylior.beans;
 
 public class OfflineOrderMeasurements {
-
+//this change is used for checking purpose
 	private String height;
 	private String width;
 	private String posture;
