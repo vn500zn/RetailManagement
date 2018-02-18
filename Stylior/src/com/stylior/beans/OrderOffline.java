@@ -1,7 +1,11 @@
 package com.stylior.beans;
 
 import java.util.Date;
-
+/**
+ * 
+ * @author karnam karthimp
+ *
+ */
 public class OrderOffline {
 
 	private String fabric;
