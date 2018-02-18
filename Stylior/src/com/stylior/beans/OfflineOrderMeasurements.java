@@ -1,5 +1,9 @@
 package com.stylior.beans;
-
+/***
+ * 
+ * @author karnam karthimp
+ *
+ */
 public class OfflineOrderMeasurements {
 
 	private String height;
